@@ -1,6 +1,8 @@
 # softtek_technical_test
 Technical Test For Python Position
 
+Todas las rutas se acceden apartir de '/api/' + ruta
+
 Módulo customer_order_status
 
 Esta ruta es para ver el resultado solicitado en el problema. 
